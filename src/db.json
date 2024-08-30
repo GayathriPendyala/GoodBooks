@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "categoryId": 1001,
+      "name": "Best Sellers"
+    },
+    {
+      "categoryId": 1002,
+      "name": "New Releases"
+    },
+    {
+      "categoryId": 1003,
+      "name": "Top 100"
+    },
+    {
+      "categoryId": 1004,
+      "name": "Reader's Choice"
+    }
+
+  ],
+  "books": [
+    {
+      "bookId": 1001,
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "price": 1099,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1002,
+      "title": "Cherish",
+      "author": "Tracy Wolff",
+      "price": 499,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1003,
+      "title": "Dog Man",
+      "author": "Dav Pilkey",
+      "price": 899,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1004,
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": 699,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1005,
+      "title": "It Ends With Us",
+      "author": "Colleen Hoover",
+      "price": 999,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1006,
+      "title": "Never Never",
+      "author": "Colleen Hoover",
+      "price": 1199,
+      "isPublic": true,
+      "categoryId": 1001
+    }
+
+  ]
+}
